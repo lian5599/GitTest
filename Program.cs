@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("First Motify.");
+            Console.WriteLine("Second Motify.");
         }
     }
 }
